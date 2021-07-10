@@ -2,7 +2,7 @@
 
 Ini adalah program multichat sederhana yang mennggunakan Protocol TCP
 
-#Tutorial
+# Tutorial
 Berikut cara instalasi program yang saya buat
 
 1. Download soucecode
@@ -15,5 +15,5 @@ Berikut cara instalasi program yang saya buat
 8. Aplikasi multichat siap digunakan
 9. Untuk memberhentikan server, ketik "s" di program server untuk menghentikan server dan menyimpan histori pesan.
 
-#Flowchart
+# Flowchart
 ![TCPMultiChatFlow (1)](https://user-images.githubusercontent.com/63575455/125166196-aef40780-e1c4-11eb-95c0-0fca2df443d3.png)
